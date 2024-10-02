@@ -16,7 +16,7 @@ timezone: Asia/kolkata
 
 title: kiran sonawane # the main title
 
-tagline: Cloud DevOps Engineer # it will display as the subtitle
+tagline: Cloud & DevOps Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   this is my bod
@@ -38,11 +38,11 @@ social:
   email: kiranps135@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/kiranps135 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - www.linkedin.com/in/kiran-sonawane-b02558215
+    - https://www.linkedin.com/in/kiran-sonawane-b02558215
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /kiranps135/kiranps135.github.io/assets/img/fevicons/my-logo.png 
+avatar: /assets/img/fevicons/my-logo.png
 #https://media.licdn.com/dms/image/v2/D4D03AQGdpnrLxJDISA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705246792239?e=1732752000&v=beta&t=uac_48PmgZ6DR5FqmoVlcT67ShErguW6Lye2jWNdFnw
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
