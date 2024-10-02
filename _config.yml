@@ -28,8 +28,8 @@ url: "https://kiranps135.github.io"
 github:
   username: kiranps135 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+    #twitter:
+    #username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +98,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4D03AQGdpnrLxJDISA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705246792239?e=1732752000&v=beta&t=uac_48PmgZ6DR5FqmoVlcT67ShErguW6Lye2jWNdFnw
+avatar: /kiranps135/kiranps135.github.io/assets/img/fevicons/my-logo.png 
+#https://media.licdn.com/dms/image/v2/D4D03AQGdpnrLxJDISA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705246792239?e=1732752000&v=beta&t=uac_48PmgZ6DR5FqmoVlcT67ShErguW6Lye2jWNdFnw
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
