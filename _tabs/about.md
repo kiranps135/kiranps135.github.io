@@ -23,7 +23,7 @@ I also focus heavily on monitoring and logging to provide real-time insights and
 
 In my free time, I love spending time with my friends, family, and exploring new places.
 
-![Kiran Sonawane](https://github.com/kiranps135/kiranps135.github.io/assets/img/personal/my-image.png)
+![Kiran Sonawane] : /assets/img/personal/my-image.png
 
 
 
