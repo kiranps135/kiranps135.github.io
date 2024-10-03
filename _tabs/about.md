@@ -9,7 +9,7 @@ order: 4
 
 **A Cloud & DevOps Engineer From India**
 
-**Cloud & DevOps Engineer | Cloud Enthusiast | Certified Kubernetes Administrator (CKA)**
+**Cloud & DevOps Engineer** | **Cloud Enthusiast** | **Certified Kubernetes Administrator (CKA)**
 
 I graduated from **Pune University** with a Bachelor's degree in **Information Technology**, earning excellent and honors grades in **2017**.
 
@@ -23,7 +23,7 @@ I also focus heavily on monitoring and logging to provide real-time insights and
 
 In my free time, I love spending time with my friends, family, and exploring new places.
 
+![Kiran Sonawane](https://github.com/kiranps135/kiranps135.github.io/assets/img/personal/my-image.png)
 
-![Kiran Sonawane] /kiranps135/kiranps135.github.io/assets/img/personal/my-image.png
 
 
